@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\joc_pentru_emil\PingPong\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\joc_pentru_emil\PingPong\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
