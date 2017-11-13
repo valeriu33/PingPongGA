@@ -1,2 +1,2 @@
 # PingPongGA
-Unity PingPong made with Genetic Algorithms
+Unity PingPong made with Genetic Algorithms.
